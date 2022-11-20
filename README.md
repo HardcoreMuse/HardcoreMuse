@@ -4,25 +4,25 @@
 
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to do pixel art and play around with NFTs
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: I love to do Pixel Art and play around with NFTs
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://https://thepixelscriptchronicles.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://https://thepixelscriptchronicles.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/hardcore_muse#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/hardcore_muse#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-sisson#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-sisson#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/hardcoremuse#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/hardcoremuse#gh-dark-mode-only)
 
 ### Languages and Tools:
 
