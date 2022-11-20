@@ -48,6 +48,11 @@
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 2 commit(s) to [HardcoreMuse/HardcoreMuse](https://github.com/HardcoreMuse/HardcoreMuse)
+2. ⬆️ Pushed 1 commit(s) to [HardcoreMuse/HardcoreMuse](https://github.com/HardcoreMuse/HardcoreMuse)
+3. ⬆️ Pushed 1 commit(s) to [HardcoreMuse/HardcoreMuse](https://github.com/HardcoreMuse/HardcoreMuse)
+4. ⬆️ Pushed 1 commit(s) to [HardcoreMuse/HardcoreMuse](https://github.com/HardcoreMuse/HardcoreMuse)
+5. ⬆️ Pushed 1 commit(s) to [HardcoreMuse/HardcoreMuse](https://github.com/HardcoreMuse/HardcoreMuse)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
