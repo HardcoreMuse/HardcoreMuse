@@ -1,4 +1,4 @@
-# Hi there, I'm Paul - aka [HardcoreMuse][youtube] 👋 
+# Hi there, I'm Paul - aka [HardcoreMuse] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -10,12 +10,10 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I love to do pixel art and play around with NFTs
 
 ### Connect with me:
 
@@ -59,34 +57,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -103,17 +73,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="HardcoreMuse's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/ScriptPixel
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: www.linkedin.com/in/paul-sisson
