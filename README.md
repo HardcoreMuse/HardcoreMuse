@@ -1,3 +1,6 @@
+[![MasterHead](./img/banner.png)]
+
+
 # Hi there, I'm Paul - aka [HardcoreMuse] 👋 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
