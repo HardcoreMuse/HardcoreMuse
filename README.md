@@ -1,4 +1,4 @@
-[![MasterHead](./img/banner.png)]
+![MasterHead](./img/banner.png)
 
 
 # Hi there, I'm Paul - aka [HardcoreMuse] 👋 
