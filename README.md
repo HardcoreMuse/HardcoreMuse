@@ -52,6 +52,10 @@
 
 ---
 
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hardcoremuse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
